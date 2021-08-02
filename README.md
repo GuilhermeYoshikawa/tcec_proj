@@ -10,11 +10,11 @@ O projeto consiste no desenvolvimento de uma aplicação que demonstre alguns ex
 A aplicação conta com um Menu que permita o usuário escolher entre a execução do Case 1 (máquina de doces) e o Case 2 (elevador).
 
 ## Layout
-![Image_1](https://github.com/GuilhermeYoshikawa/Assets/blob/main/Assets/Menu.PNG) 
+![Image_1](https://github.com/GuilhermeYoshikawa/Assets/blob/main/Assets/menu.PNG) 
 
-![Image_2](https://github.com/GuilhermeYoshikawa/Assets/blob/main/Assets/MaquinaDeDoces.PNG) 
+![Image_2](https://github.com/GuilhermeYoshikawa/Assets/blob/main/Assets/maquinaDeDoces.PNG) 
 
-![Image_3](https://github.com/GuilhermeYoshikawa/Assets/blob/main/Assets/elevador.PNG)
+![Image_3](https://github.com/GuilhermeYoshikawa/Assets/blob/main/Assets/Elevador.PNG)
 
 # 👉 Case 1 (Máquina de Doces)
 O Case 1 é uma máquina de doces que possui três tipos de doces (Doce A = R$ 6,00, Doce B = R$ 7,00 e Doce C = R$ 8,00). Podendo ser inserida somente três tipos de Nota/moeda (R$1,00, R$ 2,00 e R$ 5,00).
